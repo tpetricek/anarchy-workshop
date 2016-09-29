@@ -105,6 +105,12 @@ workshops, previous sessions / panels)
 > If a subject does not permit exactness, it is not sufficient to be exact 
 > about something else. (Realms of Value, Ralph Barton Perry)
 
+> The alternative (...) which I am seeking to establish here, is to restore 
+> to us once more the power for the deliberate holding of improved beliefs. 
+> We should be able to profess now knowingly and openly those beliefs which 
+> could be tacitly taken for granted in the days before modern philosophic 
+> criticism reached its present incisiveness. (Personal Knowledge, Michael Polanyi)
+
 (Can we get someone else to say nice thing about this idea?)
 
 ## Organization (TBD)
