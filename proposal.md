@@ -12,7 +12,7 @@ the presented work using a small number of methods - an idea can be supported by
 with proofs, prototype implementation with measurable indicators or a controlled user study. As
 a result, programming language ideas are often shaped in a way that makes such evaluation possible.
 As a result, many interesting ideas about programming struggle to find space in the modern 
-programming language research community, because we do not het know how to evaluate them and we
+programming language research community, because we do not yet know how to evaluate them and we
 see them as "unscientific".
 
 The aim of this workshop is to provide a venue where such ideas can be presented and discussed.
@@ -32,16 +32,16 @@ or qualitative evaluation methods can be applied.
  
 ### Objectives
 
-The objective of the workshop is to explicitly provide venue for discussing programming 
+The objective of the workshop is to explicitly provide a venue for discussing programming 
 language ideas that are difficult to evaluate using established programming language 
 evaluation methods. We intend to encourage submissions such as:
 
  - **Thought experiments.** Just like Galileo's early efforts "involved thought 
    experiments, analogies and illustrative metaphors rather than detailed experimentation"
    (Chalmers 1999, p106), we believe that thought experiments can inspire fruitful
-   programming language ideas. Arguably (Petricek 2015) Wadler's widely cited "expression 
-   problem" (Wadler 1998) which was never formally published can be seen as such 
-   programming language thought experiment.
+   programming language ideas. Wadler's widely cited, but never formally published, 
+   "expression problem" (Wadler 1998) can be seen as such a programming language thought 
+   experiment (as argued by Petricek 2015).
 
  - **Experimentation.** As noted by Hacking, "we find prejudices in favour of theory, as 
    far back as there is institutionalized science" (Hacking 1983, p150). We intend to 
@@ -104,6 +104,12 @@ workshops, previous sessions / panels)
 
 > If a subject does not permit exactness, it is not sufficient to be exact 
 > about something else. (Realms of Value, Ralph Barton Perry)
+
+> The alternative (...) which I am seeking to establish here, is to restore 
+> to us once more the power for the deliberate holding of improved beliefs. 
+> We should be able to profess now knowingly and openly those beliefs which 
+> could be tacitly taken for granted in the days before modern philosophic 
+> criticism reached its present incisiveness. (Personal Knowledge, Michael Polanyi)
 
 (Can we get someone else to say nice thing about this idea?)
 
